@@ -66,7 +66,7 @@ These queries formed the foundation for the KPIs and visuals later built in Powe
 **Key Insights:**
 - Sean Miller is the most valuable customer (~$25,043 total sales).
 - The Consumer segment leads in sales (~$1.16M).
-- The West region generates the highest profit (~$108K), and California is the strongest state by sales (~$458K).
+- The West region generates the highest profit (approx. $108K), and California is the strongest state by sales (approx. $458K).
 
 ### 2️⃣ Sales Performance & Profitability Analysis
 - Total Sales: **1.22M**
