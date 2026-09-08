@@ -1,3 +1,91 @@
+Superstore Sales, Customer & Product Performance Dashboard
+
+📌 Project Overview
+
+This is an end-to-end Business Intelligence project that analyzes Superstore sales data and transforms it into actionable business insights. The entire workflow is built on a SQL → Excel Power Query → Power BI pipeline.
+
+🛠️ Tools & Technologies Used
+
+Stage
+
+Tool Used
+
+Purpose
+
+Data Extraction & Analysis
+
+SQL (MySQL)
+
+Querying the superstore table to calculate KPIs and aggregate metrics
+
+Data Cleaning & Transformation
+
+Excel (Power Query)
+
+Removing duplicates, handling missing values, fixing data types, and column formatting
+
+Data Visualization & Reporting
+
+Power BI
+
+Building interactive dashboards, DAX measures, KPI cards, and visuals
+
+🔄 Project Workflow
+
+1. Data Extraction & Analysis (SQL)
+
+Explored the raw superstore dataset.
+
+Wrote SQL queries to calculate core KPIs and aggregate metrics (see SQL/superstore analysis.sql).
+
+2. Data Cleaning (Excel Power Query)
+
+Handled null/missing values.
+
+Removed duplicate records.
+
+Standardized column data types (date, number, text).
+
+Fixed inconsistent naming and formatting.
+
+3. Data Modeling & Visualization (Power BI)
+
+Imported cleaned data into Power BI.
+
+Built relationships and calculated KPIs using DAX measures.
+
+Added interactive slicers (Year, Region, Segment, Category).
+
+🗄️ SQL Analysis (SQL/superstore analysis.sql)
+
+The SQL script performs the following analyses on the superstore table:
+
+View all records from the table
+
+Calculate total sales
+
+Calculate total profit
+
+Calculate total quantity sold
+
+Total sales and profit by category
+
+Total sales and profit by sub-category
+
+Total sales by region
+
+Total profit by region
+
+Top 10 states by sales
+
+Top 10 cities by sales
+
+Sales and profit by customer segment
+
+Relationship between discount and profit
+
+These queries formed the foundation for the KPIs and visuals later built in Power BI.
+
 📊 Dashboards Included
 
 1️⃣ Customer & Regional Analysis
